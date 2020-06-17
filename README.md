@@ -2,7 +2,7 @@
 Choose a linear-gradient of your choice and copy it for your your projects.
 
 # Image Preview
-![](images/filename%20BGenerator.png)
+![](images/20BGenerator.png)
 # Live Demo
 
 Only available on GitHub Pages.
