@@ -2,8 +2,7 @@
 Choose a linear-gradient of your choice and copy it for your your projects.
 
 # Image Preview
-https://github.com/Dondesconton/CssBackgroundColorGenerator/blob/master/images/BGenerator.png
-![](images/20BGenerator.png)
+![](images/BGenerator.png)
 # Live Demo
 
 Only available on GitHub Pages.
