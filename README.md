@@ -1,7 +1,9 @@
 # CssBackgroundColorGenerator
 Choose a linear-gradient of your choice and copy it for your your projects.
 
-#Live Demo
+# Image Preview
+![](images/filename%20BGenerator.png)
+# Live Demo
 
 Only available on GitHub Pages.
 
